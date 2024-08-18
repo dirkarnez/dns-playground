@@ -1,8 +1,7 @@
-url-files-to-markdown
-=====================
-### How to use
-```
---dir={target}
-```
+dns-playground
+==============
+From [vishen/go-dnsquery: Golang handcrafted dns query](https://github.com/vishen/go-dnsquery/tree/master)
+
 ### TODOs
-- [ ] file urls (e.g. "application/pdf")
+- [ ] translate dns answer to human-readable information (e.g. ip address)
+- [ ] fake DNS server
